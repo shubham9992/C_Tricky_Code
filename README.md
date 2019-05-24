@@ -27,6 +27,8 @@ Addition of two numbers without using + operator
     
       if(n1 == n2)
       {
-          result = n1 * n2;
+          result = n1 * 2;
+          printf("%d\n",result);
+
       }
     }
